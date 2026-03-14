@@ -12,4 +12,4 @@ HomeTask6 - Bayesian Linear Regression
 
 HomeTask7 - Reinforcement Learning: Monte-Carlo on Gym.Taxi environment
 
-HomeTask8 - separate repo here: 
+HomeTask8 - separate repo here: https://github.com/SanSanychSeva/otus-mladvanced-202510-hometask-8 
