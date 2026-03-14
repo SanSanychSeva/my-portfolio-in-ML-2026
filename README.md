@@ -12,4 +12,4 @@ HomeTask6 - Bayesian Linear Regression
 
 HomeTask7 - Reinforcement Learning: Monte-Carlo on Gym.Taxi environment
 
-HomeTask8 - separate repo here: https://github.com/SanSanychSeva/otus-mladvanced-202510-hometask-8 
+HomeTask8 - MLOps deploy to production project (VS code + UV venv + GitHub repo + docker): from jupyter source to publishing ML-service via REST API and deploying with its environment in a docker - complete project folder as a separate repo here: https://github.com/SanSanychSeva/otus-mladvanced-202510-hometask-8 
