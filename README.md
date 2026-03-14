@@ -11,3 +11,5 @@ HomeTask5 - MCMC Metropolis-Hastings sampling as Bayesian view on statistics
 HomeTask6 - Bayesian Linear Regression
 
 HomeTask7 - Reinforcement Learning: Monte-Carlo on Gym.Taxi environment
+
+HomeTask8 - separate repo here: 
